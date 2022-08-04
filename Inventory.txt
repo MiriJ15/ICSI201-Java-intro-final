@@ -1,0 +1,7 @@
+The inventory:
+1. Light Bulb 60W 3.0 Type X. 
+2. Light Bulb 100W 5.99 Type X. 
+3. Bolt M5 0.15 Type Y *. 
+4. Bolt M8 0.25 Type Y **. 
+5. Hose 25 feet 10.0 Type Z. 
+6. Hose 50 feet 15.0 Type Z. 

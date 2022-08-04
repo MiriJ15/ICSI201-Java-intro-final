@@ -1,0 +1,11 @@
+*********************************************
+2030-02-10
+*********************************************
+Customer: www www
+Phone Number: 222
+Your Bill: 
++-------------------------------------------+
+| Light Bulb 100W, 2 units, total: $11.98
+| Hose 25 feet, 3 units, total: $30.0
++-------------------------------------------+
+Yout final bill is 41 dollars 98 cents. Thank you for shopping with us!
